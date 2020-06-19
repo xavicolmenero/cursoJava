@@ -111,7 +111,7 @@ under the License.
   <servers>
     <server>
       <id>mitomcat</id>
-      <username>admind</username>
+      <username>admin</username>
       <password>password</password>
     </server>
     <!-- server
